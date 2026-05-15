@@ -1,7 +1,4 @@
-## Hi there! I'm Marzhan👋
-__________________________________________________________________________________
-Data Engineer | Cloud Engineer | AI Enthusiast
-I am a Data & Cloud Engineer with a passion for building scalable data pipelines, designing reliable cloud infrastructure, and integrating AI/ML into real-world systems. I enjoy working at the intersection of data, cloud, and intelligent automation-turning messy data into products that make decisions easier.
+
 <!--
 **mamatovamarzhan/mamatovamarzhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -46,7 +43,7 @@ I am a **Data & Cloud Engineer** with a passion for building scalable data pipel
 ### 📫 Let's Connect
 
 - 💼 LinkedIn: [marzhan-mamatova](https://www.linkedin.com/in/marzhan-mamatova-4943b625a)
-- 📧 Email: your@email.com
+- 📧 Email: mamatova.m06@gmail.com
 - 📍 Almaty, Kazakhstan
 
 ---
