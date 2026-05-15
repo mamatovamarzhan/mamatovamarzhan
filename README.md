@@ -22,25 +22,56 @@ I am a **Data & Cloud Engineer** with a passion for building scalable data pipel
 
 ---
 
-### 🛠 My Tech Stack
+## 🛠 My Tech Stack
 
-**Data Engineering:** Python · SQL · Pandas  
-**Cloud:** AWS · Docker  
-**AI / ML:** OpenAI API · LangChain · scikit-learn  
-**Web:** React · Next.js · TypeScript  
-**Tools:** Git · Linux · PostgreSQL  
+**Data & AI**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Web**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
-### 🚀 What I'm Working On
+## 🚀 What I'm Working On
 
-- 🧠 Building AI-powered data tools that combine LLMs with structured pipelines
-- ☁️ Exploring scalable cloud architectures for data-intensive applications
-- 🎯 Applying to **nFactorial Incubator 2026** to launch my own AI product this summer
+- **AI Integration:** Building tools that combine LLMs with structured data pipelines for smarter automation.
+- **Cloud Architecture:** Designing scalable, reliable infrastructure for data-intensive applications.
+- **Data Engineering:** Turning messy data sources into clean, usable products.
+- **nFactorial Incubator 2026:** Applying to launch my own AI product this summer.
 
 ---
 
-### 📫 Let's Connect
+## 📊 GitHub Stats
+
+![Marzhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamatovamarzhan&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamatovamarzhan&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect
 
 - 💼 LinkedIn: [marzhan-mamatova](https://www.linkedin.com/in/marzhan-mamatova-4943b625a)
 - 📧 Email: mamatova.m06@gmail.com
