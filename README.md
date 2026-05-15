@@ -6,6 +6,7 @@ I am a Data & Cloud Engineer with a passion for building scalable data pipelines
 **mamatovamarzhan/mamatovamarzhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+🛠 My Tech Stack
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
