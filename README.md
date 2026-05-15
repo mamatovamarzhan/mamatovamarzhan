@@ -63,13 +63,7 @@ I am a **Data & Cloud Engineer** with a passion for building scalable data pipel
 
 ---
 
-## 📊 GitHub Stats
 
-![Marzhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamatovamarzhan&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamatovamarzhan&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Let's Connect
 
