@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there! I'm Marzhan 👋
 
-# Data Engineer | AI Developer
+# AI Developer
 
 I am a **Data & Cloud Engineer** with a passion for building scalable data pipelines, designing reliable cloud infrastructure, and integrating **AI/ML** into real-world systems. I enjoy working at the intersection of data, cloud, and intelligent automation — turning messy data into products that make decisions easier.
 
