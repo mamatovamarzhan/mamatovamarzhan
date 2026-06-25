@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi there! I'm Marzhan 👋
 
-## 🚀 Product Manager · AI Founder
+## 🚀 Juniour Data Analyst · AI Founder
 
 I build **AI products end-to-end** - from customer discovery to deployment. Currently combining product, data, and AI into one builder track.
 
