@@ -86,9 +86,9 @@ I build **AI products end-to-end** - from customer discovery to deployment. Curr
 ---
 ## 📌 Featured Projects
 
-🌏 **Journey to the East** — AI-powered travel guide for Uzbekistan along the Silk Road, with a Gemini AI concierge for personalized recommendations. Built on Next.js + Supabase + Vercel.
+🌏 **Journey to the East** AI-powered travel guide for Uzbekistan along the Silk Road, with a Gemini AI concierge for personalized recommendations. Built on Next.js + Supabase + Vercel.
 
-✅ **HabitFlow AI** — Full-stack habit-tracking app with visual analytics and AI-style smart suggestions for consistent routines.
+✅ **HabitFlow AI** Full-stack habit-tracking app with visual analytics and AI-style smart suggestions for consistent routines.
 
 ---
 
