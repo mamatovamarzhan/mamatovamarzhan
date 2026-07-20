@@ -24,8 +24,6 @@ I build **AI products end-to-end** - from customer discovery to deployment. Curr
 
 ## 🛠️ What I'm Building
 
-🌿 **GreenLeaf** -Founder of an active cross-border Korean cosmetics business in Tashkent (200+ monthly orders, currently shipping an AI skin-analysis feature)
-
 🌾 **Burkit** - Originated and led an AI livestock-monitoring drone startup as PM (Enactus SDU, 8-person team, paused)
 
 🔬 **CAIR AI Laboratory** - Data Engineer Intern at SDU's AI research lab, building ETL pipelines in Python and SQL
